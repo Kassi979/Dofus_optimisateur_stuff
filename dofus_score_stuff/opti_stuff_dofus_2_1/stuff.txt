@@ -1,0 +1,324 @@
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+	Cape du Tofu Fou	cape	36	0	-1	2	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-30	0	0	0	0	0	0	0	0	0	0	0		12	6
+	Dagues Lassay	arme	150	250	0	1	0	0	0	50	0	50	0	10	0	0	0	0	0	0	0	0	20	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+	La Feuille de Printemps	amulette	123	70	1	0	2	0	0	0	0	50	50	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie de Frigostine	2			0	0	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1365	0	4	6	1	20	90	0	460	50	30	5	5	0	54	0	15	0	15	20	25	0	0	0	0	10	0	0	45	0	12	-16	10	25	9	10	0	0	0	0	135	0	0	0	5	0	-12	6	1400	70	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+	Dagues Lassay	arme	150	250	0	1	0	0	0	50	0	50	0	10	0	0	0	0	0	0	0	0	20	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0		12	6
+	Ftalmo	bouclier	90	90	0	0	1	0	0	30	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0		12	6
+	La Feuille de Printemps	amulette	123	70	1	0	2	0	0	0	0	50	50	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	2			0	0	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1525	1	2	6	1	20	120	30	475	50	36	5	5	0	54	0	25	0	15	20	25	0	0	0	0	10	0	6	51	0	14	-21	12	32	4	10	0	0	0	0	175	0	0	6	5	6	-12	6	1400	85	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+	La Baguette des Limbes	arme	105	0	1	1	1	0	0	-40	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		11	5
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie Engloutie	Nageanneau	anneau	136	120	0	0	1	0	15	0	0	30	30	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	7	0	0	0	0	0	0	0	0	40	0	0	0	0	0	-5	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	2			0	0	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Engloutie	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1375	2	2	6	1	60	-40	70	415	30	16	0	0	15	61	22	15	0	15	0	0	0	0	0	0	0	19	13	51	0	19	-9	12	32	-1	10	0	0	0	0	270	0	0	0	5	6	-11	5	1100	80	0	0		11	5
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+	La Baguette des Limbes	arme	105	0	1	1	1	0	0	-40	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		11	5
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie Engloutie	Nageanneau	anneau	136	120	0	0	1	0	15	0	0	30	30	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	7	0	0	0	0	0	0	0	0	40	0	0	0	0	0	-5	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie de Frigostine	Bottes de Frigostine	botte	142	175	0	1	0	1	0	0	0	40	50	0	0	0	0	10	10	2	0	0	0	0	0	0	0	0	0	0	10	0	10	0	0	0	0	0	0	10	0	0	0	20	0	0	0	0	0	0	5	0	20	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Engloutie	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1400	3	2	6	2	60	-40	70	365	80	16	0	0	15	49	32	17	0	15	0	0	0	0	0	0	0	19	23	36	10	19	6	12	17	-1	10	10	0	0	0	265	0	0	0	0	6	-11	10	750	85	0	0		11	5
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Puissante Panoplie Fulgurante	Puissante Cape Fulgurante	cape	110	40	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		111	105
+Panoplie du Dragoeuf Vagabond	Dagues du Dragoeuf	arme	128	130	1	0	0	0	0	40	40	40	0	0	0	2	2	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+	La Feuille de Printemps	amulette	123	70	1	0	2	0	0	0	0	50	50	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie Engloutie	Nageanneau	anneau	136	120	0	0	1	0	15	0	0	30	30	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	7	0	0	0	0	0	0	0	0	40	0	0	0	0	0	-5	0	0	0	0	0		12	6
+Puissante Panoplie Fulgurante	Puissante Ceinture Fulgurante	ceinture	80	40	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		11	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie du Dragoeuf Vagabond	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Engloutie	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Puissante Panoplie Fulgurante	2			0	0	1	0	0	0	0	0	0	0	10	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	10	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1080	4	2	6	0	35	40	40	320	80	40	0	2	2	41	7	11	0	0	0	0	0	0	0	0	0	7	7	30	0	12	-19	10	25	4	0	0	0	0	0	235	0	10	0	15	6	-5	0	1100	45	0	0		11	5
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Abranoplie	Abracape	cape	40	30	1	0	0	0	0	-50	-50	-50	-50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie du Dragoeuf Vagabond	Dagues du Dragoeuf	arme	128	130	1	0	0	0	0	40	40	40	0	0	0	2	2	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+	La Feuille de Printemps	amulette	123	70	1	0	2	0	0	0	0	50	50	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie Gelax	Gelano	anneau	60	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie de Frigostine	Bottes de Frigostine	botte	142	175	0	1	0	1	0	0	0	40	50	0	0	0	0	10	10	2	0	0	0	0	0	0	0	0	0	0	10	0	10	0	0	0	0	0	0	10	0	0	0	20	0	0	0	0	0	0	5	0	20	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Abranoplie	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie du Dragoeuf Vagabond	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Gelax	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			144	1100	5	1	6	2	20	30	-10	230	50	20	5	7	2	34	10	17	0	15	0	0	0	0	0	0	10	0	10	15	10	12	9	10	0	9	10	10	0	0	0	120	0	0	0	0	6	-12	11	400	75	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Engloutie	Coiffe Medusoide	coiffe	138	200	0	0	1	0	0	0	0	30	40	0	0	0	0	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	0	0	0	0	30	0	7	0	0	0	-5	0	0	15	0	0		12	6
+	Cape du Tofu Fou	cape	36	0	-1	2	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-30	0	0	0	0	0	0	0	0	0	0	0		12	6
+	Dagues Lassay	arme	150	250	0	1	0	0	0	50	0	50	0	10	0	0	0	0	0	0	0	0	20	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie Engloutie	Nageanneau	anneau	136	120	0	0	1	0	15	0	0	30	30	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	7	0	0	0	0	0	0	0	0	40	0	0	0	0	0	-5	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie de Frigostine	2			0	0	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Engloutie	2			0	0	0	0	0	0	0	0	30	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1425	0	4	4	1	40	50	0	490	100	10	0	0	15	68	27	10	0	15	20	25	0	0	0	0	0	19	7	45	0	12	4	12	25	5	10	0	0	0	0	170	0	17	0	5	0	-16	5	1000	65	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie de Musha	Voile de Musha	cape	85	70	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	15	0	0	0	0	0	0	6	0	10	0	0		12	6
+	Dagues Lassay	arme	150	250	0	1	0	0	0	50	0	50	0	10	0	0	0	0	0	0	0	0	20	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie Engloutie	Nageanneau	anneau	136	120	0	0	1	0	15	0	0	30	30	0	0	0	0	7	7	0	0	0	0	0	0	0	0	0	0	7	7	0	0	0	7	0	0	0	0	0	0	0	0	40	0	0	0	0	0	-5	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie de Frigostine	2			0	0	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	2			0	0	0	2	0	0	0	0	0	0	10	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Engloutie	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1545	1	2	6	1	60	50	0	420	30	40	0	0	15	61	22	-5	0	15	20	25	0	0	0	0	0	19	7	45	0	24	-4	15	25	9	10	0	0	0	0	225	0	0	0	5	0	-11	11	1400	75	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie de Musha	Voile de Musha	cape	85	70	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	5	0	0	0	0	0	15	0	0	0	0	0	0	6	0	10	0	0		12	6
+	Dagues Lassay	arme	150	250	0	1	0	0	0	50	0	50	0	10	0	0	0	0	0	0	0	0	20	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	2			0	0	0	2	0	0	0	0	0	0	10	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1565	2	2	6	1	45	90	0	390	0	40	5	5	15	64	15	-2	0	15	20	25	0	0	0	0	10	12	0	45	0	24	-11	15	25	14	10	0	0	0	0	210	0	0	0	5	0	-12	17	1400	85	0	0		12	6
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+	La Baguette des Limbes	arme	105	0	1	1	1	0	0	-40	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		11	5
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Meurtriere	Willkillsano	anneau	150	200	0	0	0	0	0	0	0	60	0	0	0	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	40	0	0	0	0	0	0	0	350	0	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Meurtriere	Bottes de Will Killson	botte	120	150	0	1	0	0	0	0	0	50	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	-10	0	10	0	0	0	0	0	0	25	0	0	0	5	0	0	0	350	15	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Meurtriere	2			0	0	0	0	0	0	0	0	40	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			150	1395	3	2	6	1	45	0	70	385	0	16	5	5	15	64	15	18	0	15	0	0	0	0	0	0	10	12	6	51	0	19	-16	12	32	4	10	0	0	0	0	255	0	0	0	5	6	-12	11	1100	90	0	0		11	5
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+	Bandeau Kaliptus	coiffe	133	250	0	0	1	0	20	0	0	50	0	10	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	7	-6	0	0	-6	0	0	0	0	0	40	0	0	0	0	0	0	0	400	15	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+	La Baguette des Limbes	arme	105	0	1	1	1	0	0	-40	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0		11	5
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Ceremoniale	Anneau Ceremonial du Seigneur des Rats	anneau	131	130	0	0	0	0	10	0	0	40	0	6	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	7	7	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie de Frigostine	Anneau de Frigostine	anneau	144	140	0	0	1	0	0	40	0	0	0	0	5	5	0	10	0	3	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	5	0	0	0	0	0	25	0	0	0	0	0	-6	6	0	10	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie Ceremoniale	Bottes Ceremoniales du Seigneur des Rats	botte	134	170	0	1	0	0	0	0	35	40	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	6	0	0	0	0	0	0	0	0	25	0	0	0	0	7	0	0	0	10	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	3			100	1	0	0	0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			147	1445	4	2	6	1	55	0	125	335	0	29	5	5	15	32	15	19	0	15	0	0	0	0	0	0	16	19	13	21	0	25	15	18	14	4	10	0	0	0	0	215	0	0	0	0	13	-12	11	400	100	0	0		11	5
+
+equipements
+pano	nom	type	niv	Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	Coiffe Ceremoniale du Seigneur des Rats	coiffe	133	200	0	0	0	0	15	0	30	50	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	6	0	7	0	0	7	0	0	0	0	0	20	0	0	0	0	7	0	0	0	10	0	0		12	6
+Panoplie Ceremoniale	Cape Ceremoniale du Seigneur des Rats	cape	130	150	0	0	1	0	0	0	30	45	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	7	7	0	0	0	0	0	0	20	0	0	0	0	6	0	0	0	15	0	0		12	6
+Panoplie du Dragoeuf Vagabond	Dagues du Dragoeuf	arme	128	130	1	0	0	0	0	40	40	40	0	0	0	2	2	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0		12	6
+Panoplie de Musha	Bouclioeil de Musha	bouclier	87	80	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	-10	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	0	5	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Amulette de Frigostine	amulette	147	200	1	0	0	0	25	0	0	40	0	0	0	0	15	10	15	3	0	0	0	0	0	0	0	0	0	12	0	0	0	7	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	5	0	20	0	0		12	6
+Panoplie Ceremoniale	Anneau Ceremonial du Seigneur des Rats	anneau	131	130	0	0	0	0	10	0	0	40	0	6	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	7	7	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0		12	6
+Panoplie Gelax	Gelano	anneau	60	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	Ceinture de Frigostine	ceinture	140	225	0	0	0	0	0	0	0	60	0	0	0	0	0	12	0	4	0	15	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	10	0	0	0	0	25	0	0	0	0	0	-6	0	0	15	0	0		12	6
+Panoplie de Frigostine	Bottes de Frigostine	botte	142	175	0	1	0	1	0	0	0	40	50	0	0	0	0	10	10	2	0	0	0	0	0	0	0	0	0	0	10	0	10	0	0	0	0	0	0	10	0	0	0	20	0	0	0	0	0	0	5	0	20	0	0		12	6
+
+
+pano	nb items			Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+Panoplie Ceremoniale	3			100	1	0	0	0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Frigostine	3			0	1	0	0	1	0	0	0	40	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie de Musha	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie du Dragoeuf Vagabond	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+Panoplie Gelax	1			0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12	6
+
+
+
+
+
+total				Vie	PA	PM	PO	Invoc	Pui	Force	Intel	Agi	Chance	Do	Do neutre	Do terre	Do feu	Do air	Do eau	% crit	Do crit	Do pou	Do piege	Pui piege	% sort	% arme	% dist	% melee	Res neutre	Res terre	Res feu	Res air	Res eau	% res neutre	% res terre	% res feu	% res air	% res eau	Res crit	Res poussee	% res dist	% res melee	Renvoi	Sagesse	Ret PA	Esq PA	Ret PM	Esq PM	Soin	Tacle	Fuite	Ini	Prosp	Pods	Autre	Explic Autres	Max PA	Max PM
+			147	1390	5	1	3	2	50	40	120	375	50	18	0	2	17	34	25	16	0	15	0	0	0	0	0	0	0	25	23	21	16	12	22	18	14	12	10	10	0	0	0	125	0	0	0	0	19	-6	10	0	95	0	0		12	6
+

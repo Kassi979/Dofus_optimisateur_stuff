@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\fourn\Documents\c++\visual_studio\dofus_score_stuff\dofus_score_stuff\fonctions.h(440,19): warning C4244: 'return' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\fourn\Documents\c++\visual_studio\dofus_score_stuff\dofus_score_stuff\fonctions.h(508,10): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fourn\Documents\c++\visual_studio\dofus_score_stuff\dofus_score_stuff\fonctions.h(510,9): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+  dofus_score_stuff.vcxproj -> C:\Users\fourn\Documents\c++\visual_studio\dofus_score_stuff\x64\Debug\dofus_score_stuff.exe
