@@ -8,13 +8,13 @@ Ce projet a pour but de permettre de trouver un stuff Dofus pour un personnage.
 
 Le programme fonctionne (sur Windows). 
 
-Une version utlisable du programme se trouve dans le fichier "opti_stuff_dofus_2_1.zip" :  
+Une version utlisable du programme se trouve dans le fichier "opti_stuff_dofus_2_2.zip" :  
 Pour l'utiliser :  
 1. Télécharger ce fichier
 2. Le dézipper
 3. Lire "Informations.txt" et lancer "opti_stuff_dofus.exe"
 
-Le code se trouve dans les différents autres fichiers et dossiers.  
+Le code se trouve dans le dossier "dofus_stuff_[VERSION]".  
 Améliorations à faire :  
 - Lire les scores donnés aux différentes statistiques directement dans le fichier .ods
 
