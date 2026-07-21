@@ -1,0 +1,273 @@
+Bienvenue dans l'optimisateur de stuff Dofus !
+
+Ce fichier explicatif se compose de deux parties : 
+1. la liste des fichiers et leur utilité 
+2. deux exemples d'utilisation (dont trouver un stuff)
+
+Pour juste trouver un stuff, lire uniquement la partie 2. A. suffit 
+
+____________________________________________________________________________________________________________________________________________________________________________________
+
+1. Liste des fichiers et leur utilité : 
+
+- opti_stuff_dofus.exe 
+	le programme a deux utilités : 
+	1.
+	le programme va trouver un stuff optimisé 
+	le programme va chercher les stuffs qui sont les meilleurs en additionnant les scores des stats de chaque item du stuff (trouvés dans "scores_stats.txt")
+	il va chercher des stuffs pour chaque nombre de PA et en prenant en compte le nombre de bonus de pano 
+	il utilise les items de "items.txt" et les bonus de pano de "panos.txt", formatés (cf "items_dofus_book.txt" et "panos_dofus_book.txt") 
+	le score associé à chaque stat est prédominant est doit être bien choisi pour que le programme fonctionne (cf "dofus_stuff.ods" pour plus d'informations) 
+	la liste des stuffs va être générée dans "stuff.txt" et doit être copiée dans "dofus_stuff.ods" pour être lisible 
+	2.
+	le programme va formater les items ou les panoplies de "items_dofus_book.txt" ou "panos_dofus_book.txt"
+	il va générer les items et panoplies formatés dans "formate_nouveaux_items_dofus_book.txt" et "formate_nouvelles_panos_dofus_book.txt" 
+	ils doivent ensuite être copiés : soit dans "dofus_stuff.ods" pour être lisibles, soit dans "items.txt" et "panos.txt" pour les ajouter aux items utilisables par le programme 
+
+- dofus_stuff.ods
+	le tableur permettant de visualiser les stuffs et les items
+	l'onglet explication contient des explications sur les scores et un tableau copiable dans "scores_stats.txt" 
+	l'onglet items contient tous les items craftables du jeu (ils peuvent être copiés dans "items.txt") 
+	l'onglet panos contient toutes les panoplies du jeu (elles peuvent être copiées dans "panos.txt") 
+	le score des items et panos est calculé avec le score se trouvant dans l'onglet explications
+
+- items.txt 
+	la liste des items que le programme va utiliser pour chercher un stuff 
+	de base il contient tous les items craftables du jeu 
+	les items doivent être formatés correctement (c'est à dire par exemple copiés depuis "dofus_stuff.ods")
+
+- panos.txt 
+	la liste de tous les bonus de panoplies que le programme va utiliser 
+	de base il contient toutes les panos du jeu 
+	les panoplies doivent être formatées correctement (c'est à dire par exemple copiés depuis "dofus_stuff.ods")
+
+- scores_stats.txt 
+	les scores associés à chaque statistique 
+	il doit être constitué de 2 lignes : 
+	1. chaque nom de caractéristiques, séparées chacuns par une ou plusieurs tabulations 
+	2. le score associé à cette caractéristique, séparés chacun par une ou plusieurs tabulations (pas d'espaces !)
+	pour le remplir facilement, utiliser "dofus_stuff.ods" 
+	Rq : pour empêcher le retour à la ligne : Affichage -> Retour à la ligne automatique (décoché) (ou Paramètres -> Retour à la ligne (désactivé))
+	cf "dofus_stuff.ods" pour savoir comment donner des scores cohérents 
+
+- items_dofus_book.txt
+	une liste d'items copiés directement depuis dofus book (https://www.dofusbook.net/fr/encyclopedie) 
+	de base le fichier contient tous les items du craftables du jeu (20/06/2026) 
+	ils peuvent être formatés pour ensuite être utilisés par le programme 
+	un item doit typiquement être de forme : 
+		Ceinture Pitude
+		Ceinture - Niveau 130
+		Panoplie Tanuki
+		101 à 150 Vitalité
+		41 à 50 Force
+		31 à 40 Sagesse
+		4 à 5 % Critique
+		1 PO
+		7 à 10 Prospection
+		5 à 8 Fuite
+		4 à 6 Retrait PM
+		3 à 4 % Rés. Eau
+		7 à 10 Rés. Terre
+		Ceinture Pitude
+
+- formate_nouveaux_items_dofus_book.txt
+	les items formatés par le programme depuis "items_dofus_book.txt"
+	ils peuvent ensuite être copiés : soit dans "dofus_stuff.ods" pour être lisibles, soit dans "items.txt" pour les ajouter aux items utilisables par le programme
+
+- panos_dofus_book.txt
+	une liste de panoplies copiées de dofus book (https://www.dofusbook.net/fr/encyclopedie)
+	attention : les panoplies doivent être copiées une par une pour avoir la liste des bonus de chaque nombre d'item, ainsi que le nom et le niveau de la panoplie 
+	de base le fichier contient toutes les panos du jeu (20/06/2026) 
+	elles peuvent être formatées pour ensuite être utilisées par le programme 
+	une panoplie doit typiquement être de forme : 
+		Panoplie Croquante
+		Panoplie Niveau 130
+		Chapeau
+		Bottes
+		Cape
+		Panoplies compatibles
+		Bonus 3 items
+		30 Force
+		30 Chance
+		1 PA
+		20 Dmg Poussée
+		Bonus 2 items
+		30 Force
+		30 Chance
+		20 Dmg Poussée
+	ou de forme : 
+		Panoplie de Nowel
+		Panoplie Niveau 22
+		Cape
+		Chapeau
+		Panoplies compatibles
+		Bonus panoplie + objets sélectionnés
+		42 à 60 Vitalité
+		11 à 16 Sagesse
+		15 Prospection
+		101 à 150 Pods
+		3 à 4 Tacle
+		3 à 4 Fuite
+		Bonus 2 objets
+		15 Prospection
+
+- formate_nouvelles_panos_dofus_book.txt
+	les panoplies formatées par le programme depuis "panos_dofus_book.txt"
+	elles peuvent ensuite être copiés : soit dans "dofus_stuff.ods" pour être lisibles, soit dans "panos.txt" pour les ajouter aux panos utilisables par le programme
+
+- items_apres_clear.txt
+	si le programme clear des items pour chercher un stuff optimisé, les items restants sont exportés dans ce fichier 
+
+- items_niv_[NIVEAU_MAX].txt 
+	si le programme clear des items pour chercher un stuff optimisé, les items du bon niveau sont exportés dans le fichier 
+
+- stuffs.txt
+	les stuffs trouvés par le programme, à copier dans "dofus_stuffs.ods" 
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________
+
+
+2. Exemples d'utilisations 
+
+
+A. Trouver un stuff otpimisé 
+
+1) 	Donner le score de chaque statistique dans "scores_stats.txt" :
+	a) Ouvrir "scores_stats.txt" et supprimer tout 
+	b) Ouvrir "dofus_stuff.ods" onglet explications
+	c) Compléter les cases de scores associés à chaque caractéristique 
+	d) Sélectionner les cellules de O4 à BN5 et les copier dans "scores_stats.txt" 
+	e) Sauvegarder 
+
+2)	Entrer les items à utiliser dans "items.txt" et les panoplies dans "panos.txt" (si besoin de changer ce qui y est de base) 
+
+3) 	Lancer le programme "opti_stuff_dofus.exe"   
+
+4) 	Entrer 0 pour chercher un stuff 
+
+5) 	Entrer le nombre de PA de base du perso ("7" pour un stuff niveau 100 et plus)
+
+6)	Ici deux possibilités : a) il y a des items inutiles -> entrer "0"
+				b) il y a uniquement des items utiles -> entrer "1" et passez directement à l'étape 8)
+
+7)	a) Entrez le niveau maximum des items à utiliser (les items restants sont exportés dans "items_niv_[NIVEAU_MAX].txt") 
+	b) Entrez le nombre de PA, puis de PM minimum que vous voulez pouvoir atteindre (12 puis 6 si vous voulez un stuff avec aucune limitation de PA et PM) 
+	Le programme retire tous les items inutiles et les exporte dans "items_apres_clear.txt" 
+	Pour vérifier les items utilisés ou essayer d'en enlever d'autres à la main, copier le texte de "items_apres_clear.txt" dans "dofus_stuff.txt" onglet items 
+
+8)	Entrer les PA voulus : 
+	a) Entrer le nombre de PA minimum voulu au total (par exemple 6 pour être à 6 PA minimum)
+	b) Entrer le nombre de PA maximum voulu au total (par exemple 12 pour être à 12 PA maximum)
+
+9) 	Le programme génère les stuffs optimisés et les exporte dans "stuffs.txt" : il faut copier le texte dans "dofus_stuff.txt" : 
+	a) Ouvrir "dofus_stuff.ods" onglet stuff 
+	b) Supprimer tout dans les colonnes de AH à CN 
+	c) Ouvrir "stuff.txt" et copier tout 
+	d) Coller dans la cellule AH2 de "dofus_stuff.ods" onglet stuff 
+
+
+
+
+B. Formater des items (resp. des panos) pour ensuite pouvoir les utiliser 
+
+1) 	a)	Pour des items : sélectionner les items à ajouter sur dofus book (https://www.dofusbook.net/fr/encyclopedie) et copier coller dans "items_dofus_book.txt" 
+		Le résultat doit ressembler à ça (sans indentation) : 
+			Col du Ventrublion
+			Amulette - Niveau 200
+			Panoplie des Armutins
+			451 à 500 Vitalité
+			31 à 40 Intelligence
+			41 à 50 Sagesse
+			41 à 50 Puissance
+			1 PA
+			31 à 40 Dmg Poussée
+			-40 Rés. Poussée
+			9 à 12 % Rés. Terre
+			9 à 12 % Rés. Air
+			Ajouté  3.5
+			Col du Ventrublion
+			Osanneau
+			Anneau - Niveau 200
+			251 à 300 Vitalité
+			41 à 50 Puissance
+			3 à 4 % Critique
+			2 Invocation
+			7 à 10 Dmg Terre
+			7 à 10 Dmg Feu
+			7 à 10 Dmg Eau
+			7 à 10 Dmg Air
+			11 à 15 Prospection
+			-15 Esquive PA
+			1 à 2 % Rés. Terre
+			1 à 2 % Rés. Feu
+			1 à 2 % Rés. Eau
+			1 à 2 % Rés. Air
+			Ajouté  3.4
+
+	b) 	Pour des panos : sélectionner les panos à ajouter sur dofus book (https://www.dofusbook.net/fr/encyclopedie) et copier coller dans "panos_dofus_book.txt" 
+		Attention : il faut les copier une par une, en allant sur la page de chaque pano (par exemple sur https://www.dofusbook.net/fr/encyclopedie/panoplie/1077) 
+		Le résultat doit ressembler à ça (sans indentation) : 
+			Panoplie des Armutins
+			Panoplie Niveau 200
+			Bouclier
+			Arc
+			Amulette
+			Panoplies compatibles
+			Bonus panoplie + objets sélectionnés
+			1103 à 1250 Vitalité
+			31 à 40 Intelligence
+			31 à 40 Chance
+			31 à 40 Agilité
+			82 à 100 Sagesse
+			163 à 190 Puissance
+			2 PA
+			2 PO
+			60 Dmg Feu
+			60 Dmg Eau
+			60 Dmg Air
+			-20 Tacle
+			36 à 40 Fuite
+			-15 Esquive PA
+			41 à 45 Esquive PM
+			71 à 80 Dmg Poussée
+			26 à 35 Rés. Critique
+			-40 Rés. Poussée
+			9 à 12 % Rés. Neutre
+			9 à 12 % Rés. Terre
+			9 à 12 % Rés. Feu
+			9 à 12 % Rés. Air
+			5 à 7 % Rés. Mêlée
+			3 à 4 % Rés. Distance
+			Renvoi 11 à 15 dommages
+			Bonus 3 objets
+			50 Puissance
+			1 PA
+			60 Dmg Feu
+			60 Dmg Eau
+			60 Dmg Air
+			20 Fuite
+			30 Esquive PM
+			40 Dmg Poussée
+			Bonus 2 objets
+			50 Puissance
+			30 Dmg Feu
+			30 Dmg Eau
+			30 Dmg Air
+			10 Fuite
+			15 Esquive PM
+			20 Dmg Poussée
+
+2) 	Lancer le programme "opti_stuff_dofus.exe" et entrer "1" (resp. "2") 
+
+3)	Le programme formate les items (resp. panos) et les exporte dans "formate_nouveaux_items_dofus_book.txt" (resp. "formate_nouvelles_panos_dofus_book.txt")
+
+4)	Copier le texte exporté dans "dofus_stuff.ods" onglet items (resp. panos) 
+	Les items (resp. panos) de cet onglet peuvent ensuite être copiés dans "items.txt" (resp. "panos.txt") pour être utlisés par le programme !
+
+
+
+
+
+
